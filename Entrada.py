@@ -1,0 +1,12 @@
+NAME="Jacobo"
+LASTNAME="Ordoñez"
+EMAIL="jacobooe33@gmail.com"
+GENDER="Male"
+MOBILE="124124122451"
+DATE_OF_BIRTH="02-07-2003"
+SUBJECTS=["Maths", "Physics","Chemistry"]
+HOBBIES = "Music"
+PIC="JOT FOTO.jpeg"
+ADDRESS="Calle 8734 sur #12321"
+STATE="NCR"
+CITY="Delhi"

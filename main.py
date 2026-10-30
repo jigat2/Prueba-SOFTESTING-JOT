@@ -157,5 +157,6 @@ submt_btton = wait.until(
 )
 submt_btton.click()
 
-time.sleep(5)
+time.sleep(15)
 
+open_browser.quit()

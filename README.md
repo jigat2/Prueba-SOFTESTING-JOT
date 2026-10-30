@@ -7,7 +7,7 @@ Prueba Practica de automatizacion.
 
 - **Nombre:** Jacobo Ordoñez
 - **Prueba:** Softesting – automatización de formulario web
-- **Repositorio:** <https://github.com/jigat2/P1>
+- **Repositorio:** <https://github.com/jigat2/Prueba-SOFTESTING-JOT>
 
 # Herramientas
 
